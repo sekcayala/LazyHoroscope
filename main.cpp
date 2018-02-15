@@ -30,9 +30,6 @@ int lucky;
    {
    cout<< "You should keep a low profile.\n";
    }
-   string word;
-   cout<<word[0]<<endl;
-   cin>>word;
 
    int len=last.length();
    if (last[len-1]= (a || e || i || o || u));
