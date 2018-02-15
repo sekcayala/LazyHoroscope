@@ -26,13 +26,13 @@ int lucky;
    {
    cout<<"you are destined to be famous!\n";
    }
-   else
+   else 
    {
    cout<< "you should keep a low profile.\n";
    }
 
    int len=last.length();
-   if (last[len-1]= (a || A || e || E || i || I || o || O || u || U));
+   if (last[len-1] = (a || A || e || E || i || I || o || O || u || U))
    {
    cout<<"you have already met your true love.\n";
    }
