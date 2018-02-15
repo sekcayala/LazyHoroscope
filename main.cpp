@@ -20,9 +20,7 @@ int lucky;
 
    cout<<"your lucky number is " <<first.length()<<endl;
 
-   char a, A, e, E, i, I, o, O, u, U;
-
-   if (first[0] = (a || A || e || E || i || I || o || O || u || U))
+   if (first[0] == ('a' || 'A' || 'e' || 'E' || 'i' || 'I' || 'o' || 'O' || 'u' || 'U'))
    {
    cout<<"you are destined to be famous!\n";
    }
@@ -32,7 +30,7 @@ int lucky;
    }
 
    int len=last.length();
-   if (last[len-1] = (a || A || e || E || i || I || o || O || u || U))
+   if (last[len-1] == ('a' || 'A' || 'e' || 'E' || 'i' || 'I' || 'o' || 'O' || 'u' || 'U'))
    {
    cout<<"you have already met your true love.\n";
    }
